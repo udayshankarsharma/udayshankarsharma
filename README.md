@@ -197,12 +197,13 @@ attrition, salary, job roles, experience and retention patterns.
   </a>
 </p>
 
-<h2 align="center">🐍 GitHub Contribution Snake</h2>
+<h2 align="center">🐍 Contribution Activity</h2>
 
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/udayshankarsharma/udayshankarsharma/output/github-snake.svg"
     alt="GitHub Contribution Snake"
+    width="90%"
   />
 </p>
 
