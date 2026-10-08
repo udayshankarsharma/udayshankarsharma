@@ -236,5 +236,22 @@ attrition, salary, job roles, experience and retention patterns.
   📈 Prepared analytical reports and communicated insights
   to support simulated risk mitigation strategies.
 </p>
+<h2 align="center">🏆 Certifications & Achievements</h2>
 
+<p align="center">
+
+🎓 <b>Advanced Power BI & Cloud Integration</b><br>
+Coding Spoon • June 2026
+
+<br><br>
+
+📊 <b>Data Analyst Specialization</b><br>
+Coding Spoon • January 2026
+
+<br><br>
+
+🤖 <b>Google Gemini Academy Expert</b><br>
+upEducators • December 2025
+
+</p>
 
