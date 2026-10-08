@@ -217,4 +217,24 @@ attrition, salary, job roles, experience and retention patterns.
   💡 Solving problems through code
 </p>
 
+<h2 align="center">💼 Experience</h2>
+
+<p align="center">
+  <b>GenAI Powered Data Analytics Job Simulation</b><br>
+  Tata Group via Forage • May 2026 – June 2026
+</p>
+
+<p align="center">
+  🔍 Exploratory Data Analysis & Risk Profiling
+  &nbsp; • &nbsp;
+  🤖 Machine Learning Classification
+  &nbsp; • &nbsp;
+  📊 Data-Driven Risk Analysis
+</p>
+
+<p align="center">
+  📈 Prepared analytical reports and communicated insights
+  to support simulated risk mitigation strategies.
+</p>
+
 
