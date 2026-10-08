@@ -24,3 +24,16 @@ real-world problems through code.
 </a>
 
 </div>
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,tailwind,bootstrap,vite" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c,mysql,mongodb,firebase,git,github,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn" />
+</p>
