@@ -180,3 +180,13 @@ attrition, salary, job roles, experience and retention patterns.
     <img src="https://img.shields.io/badge/View%20My%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=udayshankarsharma&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udayshankarsharma&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
