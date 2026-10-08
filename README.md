@@ -238,20 +238,29 @@ attrition, salary, job roles, experience and retention patterns.
 </p>
 <h2 align="center">🏆 Certifications & Achievements</h2>
 
-<p align="center">
+<table align="center">
+<tr>
 
-🎓 <b>Advanced Power BI & Cloud Integration</b><br>
-Coding Spoon • June 2026
+<td align="center" width="33%">
+  🎓<br>
+  <b>Advanced Power BI & Cloud Integration</b><br>
+  <sub>Coding Spoon • June 2026</sub>
+</td>
 
-<br><br>
+<td align="center" width="33%">
+  📊<br>
+  <b>Data Analyst Specialization</b><br>
+  <sub>Coding Spoon • January 2026</sub>
+</td>
 
-📊 <b>Data Analyst Specialization</b><br>
-Coding Spoon • January 2026
+<td align="center" width="33%">
+  🤖<br>
+  <b>Google Gemini Academy Expert</b><br>
+  <sub>upEducators • December 2025</sub>
+</td>
 
-<br><br>
-
-🤖 <b>Google Gemini Academy Expert</b><br>
-upEducators • December 2025
+</tr>
+</table>
 
 </p>
 <h2 align="center">🤝 Let's Connect</h2>
