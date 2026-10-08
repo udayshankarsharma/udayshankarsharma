@@ -2,7 +2,9 @@
 
 # 👋 Hi, I'm Uday Shankar Sharma
 
-### 💻 Full-Stack Developer | 📊 Data Analyst | 🧠 DSA Enthusiast
+### <a href="https://github.com/udayshankarsharma">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Data+Analyst;DSA+%26+Problem+Solving;MERN+Stack+Developer;Building+Real-World+Projects" alt="Typing SVG" />
+</a>
 
 Building modern web applications, analyzing data, and solving
 real-world problems through code.
