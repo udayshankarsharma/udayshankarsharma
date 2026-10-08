@@ -186,5 +186,15 @@ attrition, salary, job roles, experience and retention patterns.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=udayshankarsharma&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 </p>
+<h2 align="center">🔥 GitHub Contribution Streak</h2>
+
+<p align="center">
+  <a href="https://github.com/udayshankarsharma">
+    <img
+      src="https://streak-stats.demolab.com/?user=udayshankarsharma&theme=tokyonight&hide_border=true"
+      alt="GitHub Streak"
+    />
+  </a>
+</p>
 
 
