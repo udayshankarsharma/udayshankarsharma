@@ -27,13 +27,23 @@ real-world problems through code.
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,tailwind,bootstrap,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,mysql,mongodb,firebase,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,python,c,mysql,postgres,mongodb" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn" />
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn,docker,azure,git,github,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=powerbi" />
+</p>
+
+<p align="center">
+  <b>📊 Data Visualization:</b> Matplotlib • Seaborn
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <b>🧠 Core CS:</b> DSA • OOP • DBMS • OS
 </p>
