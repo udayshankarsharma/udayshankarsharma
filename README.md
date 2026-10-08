@@ -254,4 +254,28 @@ Coding Spoon • January 2026
 upEducators • December 2025
 
 </p>
+<h2 align="center">🤝 Let's Connect</h2>
+
+<p align="center">
+  I'm always open to discussing opportunities, collaborations,
+  projects, and interesting ideas.
+</p>
+
+<p align="center">
+  <a href="mailto:Uday8002881041@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/uday-shankar-sharma-2a2606350">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/udayshankar01/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
+
+<p align="center">
+  <b>💻 Build • 📊 Analyze • 🧠 Solve • 🚀 Learn</b>
+</p>
 
