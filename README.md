@@ -1,16 +1,20 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**udayshankarsharma/udayshankarsharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Uday Shankar Sharma
 
-Here are some ideas to get you started:
+### 💻 Full-Stack Developer | 📊 Data Analyst | 🧠 DSA Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building modern web applications, analyzing data, and solving
+real-world problems through code.
+
+<br>
+
+<a href="https://github.com/udayshankarsharma">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
+</a>
+&nbsp;
+<a href="https://leetcode.com/">
+  <img src="https://img.shields.io/badge/LeetCode-DSA-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+</div>
