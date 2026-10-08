@@ -162,3 +162,21 @@ attrition, salary, job roles, experience and retention patterns.
 </td>
 </tr>
 </table>
+
+<h2 align="center">🧠 DSA & LeetCode</h2>
+
+<p align="center">
+  <b>Problem Solving • Data Structures • Algorithms</b>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/udayshankar01/">
+    <img src="https://leetcard.jacoblin.cool/udayshankar01?theme=dark&ext=heatmap" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/udayshankar01/">
+    <img src="https://img.shields.io/badge/View%20My%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
