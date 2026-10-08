@@ -197,4 +197,24 @@ attrition, salary, job roles, experience and retention patterns.
   </a>
 </p>
 
+<h2 align="center">👨‍💻 About Me</h2>
+
+<p align="center">
+  I'm a B.Tech CSE (Data Science) student passionate about building
+  full-stack applications and turning data into meaningful insights.
+</p>
+
+<p align="center">
+  💻 Full-Stack Development &nbsp; • &nbsp;
+  📊 Data Analytics &nbsp; • &nbsp;
+  🤖 Machine Learning &nbsp; • &nbsp;
+  🧠 DSA & Problem Solving
+</p>
+
+<p align="center">
+  🚀 Building real-world projects &nbsp; | &nbsp;
+  📚 Continuously learning &nbsp; | &nbsp;
+  💡 Solving problems through code
+</p>
+
 
