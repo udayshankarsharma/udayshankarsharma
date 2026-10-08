@@ -15,7 +15,11 @@ real-world problems through code.
   <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
 </a>
 &nbsp;
-<a href="https://leetcode.com/">
+<a href="https://www.linkedin.com/in/uday-shankar-sharma-2a2606350">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/udayshankar01/">
   <img src="https://img.shields.io/badge/LeetCode-DSA-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
